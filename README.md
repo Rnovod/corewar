@@ -25,3 +25,9 @@ This project can be broken down into three distinctive parts:
 
 # Usages
 ![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/usage.png)
+
+# Visualization
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game1.png)
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game2.png)
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game3.png)
+
