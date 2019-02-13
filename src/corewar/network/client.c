@@ -36,6 +36,7 @@ inline static void	reinit(t_data *d, t_token *t, t_network *net)
 	win = (void*)d->vis.win;
 	ft_memcpy(d, t->data, sizeof(t_data));
 	d->vis.win = (WINDOW*)win;
+	d->vis.isinit = true;
 	d->beg_pc = NULL;
 	d->server = false;
 	d->leaks = leaks;
