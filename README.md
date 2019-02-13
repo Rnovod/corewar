@@ -29,5 +29,9 @@ This project can be broken down into three distinctive parts:
 # Visualization
 ![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game1.png)
 ![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game2.png)
-![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/game3.png)
 
+# Server
+
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/server1.png)
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/server2.png)
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/server3.png)
