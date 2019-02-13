@@ -24,3 +24,4 @@ This project can be broken down into three distinctive parts:
 - The champion: This one is a special case. Later, in the championship, you will need to render a super powerful champion, who will scare the staff team to death. • The visualization: You write flag -v and it shows you beatiful visualization of the game.
 
 # Usages
+![Alt Text](https://github.com/Rnovod/corewar/blob/master/screenshots/usage.png)
